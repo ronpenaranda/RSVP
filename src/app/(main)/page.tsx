@@ -32,6 +32,9 @@ const Dashboard = () => {
     <p className="text-4xl text-rose-500 font-medium tracking-wide mb-4">
       You are invited!
     </p>
+        <p className="text-4xl font-medium tracking-wide mb-4">
+      06 - 21 - 2025
+    </p>
 <div className="pt-8 flex flex-col md:flex-row justify-center items-start md:items-center gap-8 text-gray-700">
 
   <div className="bg-white/60 backdrop-blur-sm border border-pink-100 rounded-2xl px-6 py-5 shadow-md text-center w-full md:w-auto">
