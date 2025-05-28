@@ -51,7 +51,7 @@ const Dashboard = () => {
   </div>
 </div>
 
-    <p className="text-base mt-4 tracking-wider text-gray-600 max-w-xl mx-auto">
+    <p className="pt-9 text-sm mt-4 tracking-wider text-gray-600 max-w-xl mx-auto">
       We would be honored by your presence. Please confirm your attendance and let us know if you'll bring a guest.
     </p>
   </div>

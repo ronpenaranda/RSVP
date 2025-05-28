@@ -3,7 +3,7 @@
 import React, { useState, ChangeEvent } from "react";
 import { useRouter } from "next/navigation";
 import { CheckCircle } from "lucide-react";
-import { AddGuest } from "../action/rsvp.action";
+import { AddGuest } from "@/action/rsvp.action";
 import { useActionHandler } from "@/hooks/useActionHandler";
 
 export default function GuestForm() {
