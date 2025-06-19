@@ -79,7 +79,8 @@ const Dashboard = () => {
 
         <button
           className="mt-10 inline-flex items-center gap-3 px-6 py-3 text-white bg-pink-500 hover:bg-pink-600 transition-all duration-300 ease-in-out rounded-full text-lg shadow-lg hover:shadow-xl"
-        onClick={() => handleClick()}>
+        onClick={() => handleClick()}
+        disabled>
           <CheckCircle className="text-white text-xl" />
           Confirm Attendance
         </button>
